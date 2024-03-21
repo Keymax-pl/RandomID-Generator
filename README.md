@@ -1,9 +1,9 @@
-#RandomID Generator#
+# RandomID Generator #
 
-##Installatiion##
-###Installation: `npm install @keymax/id-generator`###
+## Installatiion ##
+### Installation: `npm install @keymax/id-generator`###
 
-##Usage##
+## Usage ##
 ```js
 const radnomId = require('@keymaxgit /id-generator');
 

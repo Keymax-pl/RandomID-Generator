@@ -5,7 +5,7 @@
 
 ## Usage ##
 ```js
-const radnomId = require('@keymaxgit /id-generator');
+const radnomId = require('@keymax/id-generator');
 
 console.log(randomId(10));
 ```

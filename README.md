@@ -1,7 +1,7 @@
 # RandomID Generator #
 
 ## Installatiion ##
-### Installation: `npm install @keymax/id-generator`###
+### Installation: `npm install @keymax/id-generator` ###
 
 ## Usage ##
 ```js
